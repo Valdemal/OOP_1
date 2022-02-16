@@ -1,0 +1,4 @@
+C:\Users\Vovan\Desktop\Учеба\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №1\Задание2\OPP1_2\Debug\OPP1_2.vcxproj.AssemblyReference.cache
+C:\Users\Vovan\Desktop\Учеба\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №1\Задание2\OPP1_2\Debug\OPP1_2.exe
+C:\Users\Vovan\Desktop\Учеба\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №1\Задание2\OPP1_2\Debug\OPP12.MyForm.resources
+C:\Users\Vovan\Desktop\Учеба\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №1\Задание2\OPP1_2\Debug\OPP1_2.vcxproj.GenerateResource.cache
